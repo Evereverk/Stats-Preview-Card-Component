@@ -23,8 +23,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: []
-- Live Site URL: []
+- Solution URL: [https://github.com/Evereverk/Stats-Preview-Card-Component.git]
+- Live Site URL: [https://stats-preview-card-component-five-cyan.vercel.app/]
 
 ## My process
 
